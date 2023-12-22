@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ibtsam3301
-
-- 🌱 I’m currently learning React and Django
-
 - 📫 How to reach me ahmadibtsam07@gmail.com
 
 <!---
